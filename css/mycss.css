@@ -30,12 +30,14 @@
     text-align: center;
     font-size: 35px;
     color: #FFFFFF;	
+
 }
 
 .discover {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     text-align: center;
     font-size: 23px;
+    color: #FFFFFF;	
 }
 .btn {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
@@ -58,8 +60,8 @@
 
 .two {
     background-image: url(../images/audience.jpeg);
-    background-size: contain;	
-	background-attachment: fixed;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .one {
@@ -108,10 +110,23 @@
 }
 
 .row {
-    background-color: #000000;
+    background-color: #685F5F;
     padding-top: 23px;
     padding-right: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
     border-radius: 7px;
+}
+
+.three {
+    background-image: url(../images/about%20us.jpg);
+    background-size: cover;
+	background-attachment: fixed;
+}
+
+.caption {
+    color: #FF0004;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
 }
