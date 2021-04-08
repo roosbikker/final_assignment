@@ -16,6 +16,7 @@
     text-align: center;
     font-weight: bold;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;	
 }
 
 .search {
@@ -28,6 +29,7 @@
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     text-align: center;
     font-size: 35px;
+    color: #FFFFFF;	
 }
 
 .discover {
@@ -54,11 +56,16 @@
     color: #00000;
 }
 
-.jumbotron {
-    left: auto;
+.two {
+    background-image: url(../images/audience.jpeg);
+    background-size: contain;	
+	background-attachment: fixed;
+}
+
+.one {
     background-image: url(../images/stage2.jpg);
     background-size: contain;
-    color: #FFFFFF;
+	background-attachment: fixed;
 }
 
 .body {
@@ -86,5 +93,25 @@
     background-color: #FF0004;	
 }
 
+.heading {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 12px;
+    color: #FF0004;	
+}
 
-    
+.text {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #FFFFFF;	
+}
+
+.row {
+    background-color: #000000;
+    padding-top: 23px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    border-radius: 7px;
+}
