@@ -62,12 +62,14 @@
     background-image: url(../images/audience.jpeg);
     background-size: cover;
     background-attachment: fixed;
+    text-align: center;	
 }
 
 .one {
     background-image: url(../images/stage2.jpg);
     background-size: contain;
-	background-attachment: fixed;
+    background-attachment: fixed;
+    text-align: center;
 }
 
 .body {
@@ -110,7 +112,7 @@
 }
 
 .row {
-    background-color: #685F5F;
+    background-color: #000000;
     padding-top: 23px;
     padding-right: 16px;
     padding-bottom: 16px;
@@ -129,4 +131,28 @@
     text-align: center;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-weight: bold;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+}
+
+.four {
+    background-image: url(../images/noten.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.col-6 {
+    border-style: dashed;
+    border-color: #FFFFFF;
+}
+
+#mission {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #FE0004;
+    text-align: center;
+    width: auto;
+    margin-left: 394px;
 }
