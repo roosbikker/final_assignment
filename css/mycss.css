@@ -217,3 +217,9 @@
     padding-left: 10px;
     margin-top: 21px;
 }
+
+.five{
+    background-image: url(../images/vinyl3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
