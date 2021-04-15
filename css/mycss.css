@@ -3,7 +3,7 @@
 
 .navbar-expand-lg {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
 }
 
@@ -246,4 +246,10 @@
 }
 .verhaaltje {
     margin-top: 60px;
+}
+
+.design {
+    margin-top: 15px;
+    margin-bottom: 15px;
+      
 }
