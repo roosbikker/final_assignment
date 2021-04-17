@@ -253,3 +253,22 @@
     margin-bottom: 15px;
       
 }
+
+.laatste {
+    color: #FF0004;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.missie {
+    margin-bottom: 20px;	
+}
+
+.uitleg {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
