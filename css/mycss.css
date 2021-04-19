@@ -271,4 +271,16 @@
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-size: 15px;
     text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.kleintje {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-top: 15px;
 }
